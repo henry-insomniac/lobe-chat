@@ -2,6 +2,9 @@
 
 [![][image-banner]][vercel-link]
 
+# 描述大纲
+[大纲](./OUTLINE.md)
+
 # Lobe Chat
 
 An open-source, modern-design ChatGPT/LLMs UI/Framework.<br/>
